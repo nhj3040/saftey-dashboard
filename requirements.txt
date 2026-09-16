@@ -2,3 +2,4 @@ Plaintext
 streamlit
 pandas
 plotly
+openpyxl
